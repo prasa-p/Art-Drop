@@ -30,10 +30,10 @@
 
 ## 🛠️ Tech Stack
 
-* **Figma / Figma Make** – UI design and prototyping
-* **Supabase (planned)** – backend for authentication, storage, and transactions
-* **Future** – React Native or Expo implementation for cross-platform mobile release
-
+* **Typescript**
+* **Figma / Figma Make / Oragami** – UI design and prototyping
+* **React Native**
+  
 ## 🚀 Roadmap
 
 * [ ] Connect backend for live data
